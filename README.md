@@ -2,6 +2,8 @@
 
 A Telegram bot that generates music samples from text prompts using Facebook's MusicGen model.
 
+![Example](assets/example.jpg)
+
 - [Music Generation Telegram Bot](#music-generation-telegram-bot)
   - [Features](#features)
   - [Prerequisites](#prerequisites)
